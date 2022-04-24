@@ -1,5 +1,6 @@
 # TheVillainCoder
-About the owner of this organization.
+About the owner of this organization.<br>
+**VIEW A MORE FORMATTED VERSION [HERE](https://thevillaincoder.github.io/profile/).**
 ## Contact Me
 You can use the organization Discussions tab - I don't have Discord or any of that.<br>
 ### Announcements
