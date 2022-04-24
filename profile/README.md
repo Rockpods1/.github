@@ -1,14 +1,14 @@
 # TheVillainCoder
 About the owner of this organization.
 ## Contact Me
-I don't use Discord or Reddit or any of those things, so you can just use the Discussions tab.<br>
+You can use the organization Discussions tab - I don't have Discord or any of that.<br>
 ### Announcements
 For my general announcements.<br>
-Usually Blooket or Blacket posts.
+Usually Blooket or Blax (formerly Blacket) posts.
 ### General
 Everything that's not specified elsewhere.
 ### Ideas
-Ideas for new repositories and code changes. Pull requests are fine.
+What it sounds like.
 ### Q and A
 Any questions! I will try my best.
 ### Show and Tell
@@ -17,14 +17,14 @@ Show me your code! I might fork your repository or make an announcement.<br>
 <br>
 <br>
 # My Repositories
-### [blacketHacks](https://github.com/ABlooketNobody-YT/blacketHacks)
-A ton of Blacket Hacks by different users. Credit given.
-### [bookmarkletSamples](https://github.com/ABlooketNobody-YT/bookmarkletSamples)
+### [blacketArchives](https://github.com/TheVillainCoders/blacketArchives)
+Hacks and custom Blooks from when Blax was Blacket.
+### [blaxHacks](https://github.com/TheVillainCoders/bookmarklets)
+Hacks for the new Blax! Obviously, none yet, but WHO KNOWS!!!<br>
+I'll post updates for this one in the announcements.
+### [bookmarklets](https://github.com/TheVillainCoders/bookmarklets)
 What it sounds like. If you have more, I'd love them!<br>
-Also includes Premium upon request.
-### [originalBlooketHacks](https://github.com/ABlooketNobody-YT/originalBlooketHacks)
-The very first Blooket hacks, coded by Glixzzy.
-### [rickrollLinks](https://github.com/ABlooketNobody-YT/rickrollLinks)
+### [rickroll](https://github.com/TheVillainCoders/rickroll)
 A TON of Rickroll URLs. Try these on your friends!<br>
 <br>
 <br>
@@ -68,7 +68,7 @@ x Rainbow Panda
 ✓ Blobfish<br>
 ✓ Octopus<br>
 ✓ Narwhal<br>
-x Baby Shark (Sold for tokens)<br>
+x Baby Shark (Once had)<br>
 x Megalodon
 ## Bot Box
 Complete Collection!
